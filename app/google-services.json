@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "795624082782",
+    "firebase_url": "https://home-fefa8.firebaseio.com",
+    "project_id": "home-fefa8",
+    "storage_bucket": "home-fefa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795624082782:android:afab81cbab8ac28b",
+        "android_client_info": {
+          "package_name": "com.example.baymax.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795624082782-ruh903mvd2jl9pljuatlf0t66ngp48oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baymax.smarthome",
+            "certificate_hash": "fd18e54d399e7b596af54aee72a30f7a084ed567"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rXM7pkiX3Eaez2V4GGNsP-TZkIlKDD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795624082782-cm4qjfuhsdsstc7deur6vf88olh30n64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
